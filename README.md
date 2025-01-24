@@ -16,6 +16,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
+Two things that I couldn't find anywhere how to do were - error messages and remove/change image.
+
 ### The challenge
 
 Users should be able to:
